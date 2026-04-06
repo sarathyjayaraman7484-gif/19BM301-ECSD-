@@ -2,7 +2,8 @@
 # Aim:
 To plot the V-I characteristics of Zener diode.
 # APPARATUS REQUIRED:
-<img width="920" height="226" alt="image" src="https://github.com/user-attachments/assets/42684f69-19eb-43b5-9946-f0ac21e44a0c" />
+![exp1](https://github.com/user-attachments/assets/3c721579-4146-4302-a341-e4b0abd47d2b)
+
 # PROCEDURE:
 
 FORWARD BIAS:
